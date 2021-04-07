@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "plogz",
   "version": "0.0.0",
   "license": "MIT",
@@ -24,5 +23,6 @@
   "dependencies": {
     "preact": "^10.1.0",
     "preact-render-to-string": "^5.1.2"
-  }
+  },
+  "private": true
 }
